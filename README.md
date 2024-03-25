@@ -1,5 +1,9 @@
-# Pizza_sailes
-## **RU: Сведения о датасете**</br>
+# **RU: Анализ продаж пиццерии**</br>
+## **Сведения о проекте**</br>
+* Выполнен исследовательский анализ данных (EDA) с использованием Python
+* Использованы библиотеки Python для очистки и визуализации данных
+  
+## **Сведения о датасете**</br>
 
 Этот набор данных содержит подробную информацию о заказах пиццы, включая сведения о вариантах пиццы, количествах, ценах, датах, времени и деталях категоризации.
 
@@ -16,9 +20,14 @@
 **pizza_ingredients:** Предоставляет список или описание ингредиентов, используемых в пицце.</br>
 **pizza_name:** Указывает название конкретного заказанного вида пиццы.</br>
 
-Анализ распределения выручки по временным отрезкам: часам, дням недели, месяцам, категориям и размерам. Выявление топ 5 наименований по популярности.</br>
+## **Выводы:**
 
-## **EN: About Dataset** </br>
+# **EN: Pizza sales analysis** </br>
+## **About the project**
+* Performed exploratory data analysis (EDA) using Python
+* Utilized various Python libraries for data cleaning and visualization
+
+## **About the dataset**</br>
 This dataset contain detailed information about pizza orders, including specifics about the pizza variants, quantities, pricing, dates, times, and categorization details.</br>
 
 **pizza_id:** A unique identifier assigned to each distinct pizza variant available for ordering.</br>
@@ -34,3 +43,4 @@ This dataset contain detailed information about pizza orders, including specific
 **pizza_ingredients:** Provides a list or description of the ingredients used in the pizza.</br>
 **pizza_name:** Specifies the name of the specific pizza variant ordered.</br>
 
+## **Сonclusions:**
